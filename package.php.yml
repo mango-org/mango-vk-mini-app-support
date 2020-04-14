@@ -1,0 +1,9 @@
+name: mango-vk-mini-app-support
+version: 1.0.0
+description: Support functional for building VK Mini Apps
+
+plugins:
+  - Gradle
+
+deps:
+  jphp-runtime: '*'
